@@ -1,0 +1,15 @@
+{
+    "model":"unet3d",
+    "loss":"diceloss",
+    "epoch":200,
+    "datadir":"/home/user512-001/songcw/data/naochuxue",
+    "writer_path":"runs/unet3D",
+    "model_save_path" : "checkpoint/unet_best_metric_model_segmentation3d_array.pth",
+    "batch_size":2,
+    "logging_file":"logging/unet3D.txt",
+    "val_interval":2,
+    "result_dir":"result/unet3D/",
+    "dim1":256,
+    "dim2":256,
+    "dim3":16
+}

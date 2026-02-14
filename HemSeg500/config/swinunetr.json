@@ -1,0 +1,16 @@
+{
+    "model":"swinunetr",
+    "loss":"diceloss",
+    "epoch":200,
+    "datadir":"/home/user512-001/songcw/data/naochuxue",
+    "writer_path":"runs/swinunetr",
+    "model_save_path" : "checkpoint/swinunetr_best_metric_model_segmentation3d_array.pth",
+    "batch_size":2,
+    "logging_file":"logging/swinunetr.txt",
+    "val_interval":2,
+    "result_dir":"result/swinunetr/",
+    "dim1":64,
+    "dim2":64,
+    "dim3":32,
+    "padding":"true"
+}

@@ -1,0 +1,12 @@
+{
+    "model":"unetplusplus",
+    "loss":"diceloss",
+    "epoch":200,
+    "datadir":"/home/user512-001/songcw/data/naochuxue",
+    "writer_path":"runs/unetplusplus",
+    "model_save_path" : "checkpoint/unetplusplus_best_metric_model_segmentation3d_array.pth",
+    "batch_size":1,
+    "logging_file":"logging/unetplusplus.txt",
+    "val_interval":2,
+    "result_dir":"result/unetplusplus/"
+}

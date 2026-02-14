@@ -1,0 +1,15 @@
+{
+    "model":"segresnet",
+    "loss":"diceloss",
+    "epoch":200,
+    "datadir":"/home/user512-001/songcw/data/naochuxue",
+    "writer_path":"runs/segresnet",
+    "model_save_path" : "checkpoint/segresnet_best_metric_model_segmentation3d_array.pth",
+    "batch_size":4,
+    "logging_file":"logging/segresnet.txt",
+    "val_interval":2,
+    "result_dir":"result/segresnet/",
+    "dim1":256,
+    "dim2":256,
+    "dim3":16
+}
