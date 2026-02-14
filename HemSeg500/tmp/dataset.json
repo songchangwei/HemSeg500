@@ -1,0 +1,1808 @@
+{
+    "name": "iphivh",
+    "description": "segment iph and ivh dataset",
+    "tensorImageSize": "3D",
+    "reference": "Paper or website with dataset description",
+    "licence": "Dataset license",
+    "release": "1.0",
+    "channel_names": {
+        "0": "CT"
+    },
+    "labels": {
+        "background": "0",
+        "ipv_ivh": "1"
+    },
+    "numTraining": 336,
+    "numTest": 106,
+    "file_ending": ".nii.gz",
+    "training": [
+        {
+            "image": "./imagesTr/ab009c2cd3_0000.nii.gz",
+            "label": "./labelsTr/ab009c2cd3_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6cc8f5463a_0000.nii.gz",
+            "label": "./labelsTr/6cc8f5463a_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/059fb16067_0000.nii.gz",
+            "label": "./labelsTr/059fb16067_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/d8835e8ec3_0000.nii.gz",
+            "label": "./labelsTr/d8835e8ec3_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1b1a2dcaea_0000.nii.gz",
+            "label": "./labelsTr/1b1a2dcaea_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/8f2c4f3b72_0000.nii.gz",
+            "label": "./labelsTr/8f2c4f3b72_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/60b5a23da7_0000.nii.gz",
+            "label": "./labelsTr/60b5a23da7_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/d580615f5f_0000.nii.gz",
+            "label": "./labelsTr/d580615f5f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ca31f86318_0000.nii.gz",
+            "label": "./labelsTr/ca31f86318_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7a2902d550_0000.nii.gz",
+            "label": "./labelsTr/7a2902d550_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/62ac06d17d_0000.nii.gz",
+            "label": "./labelsTr/62ac06d17d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6795efd7bb_0000.nii.gz",
+            "label": "./labelsTr/6795efd7bb_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4c1750787d_0000.nii.gz",
+            "label": "./labelsTr/4c1750787d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/9b4b4287bb_0000.nii.gz",
+            "label": "./labelsTr/9b4b4287bb_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1f7d35d073_0000.nii.gz",
+            "label": "./labelsTr/1f7d35d073_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/42bf1281ff_0000.nii.gz",
+            "label": "./labelsTr/42bf1281ff_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/c75ae4e374_0000.nii.gz",
+            "label": "./labelsTr/c75ae4e374_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2331533be6_0000.nii.gz",
+            "label": "./labelsTr/2331533be6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/e7ee57d239_0000.nii.gz",
+            "label": "./labelsTr/e7ee57d239_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/d11ef8c224_0000.nii.gz",
+            "label": "./labelsTr/d11ef8c224_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/f2851197f8_0000.nii.gz",
+            "label": "./labelsTr/f2851197f8_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/12e6f536e4_0000.nii.gz",
+            "label": "./labelsTr/12e6f536e4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/e0c222c7dd_0000.nii.gz",
+            "label": "./labelsTr/e0c222c7dd_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/f4b654ed35_0000.nii.gz",
+            "label": "./labelsTr/f4b654ed35_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/b26725a6d4_0000.nii.gz",
+            "label": "./labelsTr/b26725a6d4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/b042155545_0000.nii.gz",
+            "label": "./labelsTr/b042155545_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/fb285c7341_0000.nii.gz",
+            "label": "./labelsTr/fb285c7341_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/c76da57125_0000.nii.gz",
+            "label": "./labelsTr/c76da57125_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/e67d30d179_0000.nii.gz",
+            "label": "./labelsTr/e67d30d179_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/bfd5d11a56_0000.nii.gz",
+            "label": "./labelsTr/bfd5d11a56_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2acc982f8b_0000.nii.gz",
+            "label": "./labelsTr/2acc982f8b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/acd2654182_0000.nii.gz",
+            "label": "./labelsTr/acd2654182_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/564c63132f_0000.nii.gz",
+            "label": "./labelsTr/564c63132f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7c2677954c_0000.nii.gz",
+            "label": "./labelsTr/7c2677954c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/b6617f9e71_0000.nii.gz",
+            "label": "./labelsTr/b6617f9e71_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5da2f2800f_0000.nii.gz",
+            "label": "./labelsTr/5da2f2800f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6ccc1c9e9f_0000.nii.gz",
+            "label": "./labelsTr/6ccc1c9e9f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/cee8c7d733_0000.nii.gz",
+            "label": "./labelsTr/cee8c7d733_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/e4f6609ce1_0000.nii.gz",
+            "label": "./labelsTr/e4f6609ce1_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/dfaf046d38_0000.nii.gz",
+            "label": "./labelsTr/dfaf046d38_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/c9a006f4cc_0000.nii.gz",
+            "label": "./labelsTr/c9a006f4cc_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/a2ee5e28d9_0000.nii.gz",
+            "label": "./labelsTr/a2ee5e28d9_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/51318b4f42_0000.nii.gz",
+            "label": "./labelsTr/51318b4f42_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/790e50b78e_0000.nii.gz",
+            "label": "./labelsTr/790e50b78e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/fbdb477ca1_0000.nii.gz",
+            "label": "./labelsTr/fbdb477ca1_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ca4396e9f4_0000.nii.gz",
+            "label": "./labelsTr/ca4396e9f4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/53bd6ed1ec_0000.nii.gz",
+            "label": "./labelsTr/53bd6ed1ec_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/0f872bac4e_0000.nii.gz",
+            "label": "./labelsTr/0f872bac4e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/829b84e941_0000.nii.gz",
+            "label": "./labelsTr/829b84e941_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1ab5f078f6_0000.nii.gz",
+            "label": "./labelsTr/1ab5f078f6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/060c8fdee7_0000.nii.gz",
+            "label": "./labelsTr/060c8fdee7_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/03e92a47d9_0000.nii.gz",
+            "label": "./labelsTr/03e92a47d9_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/772ae8b269_0000.nii.gz",
+            "label": "./labelsTr/772ae8b269_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/f1ac06a042_0000.nii.gz",
+            "label": "./labelsTr/f1ac06a042_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/163f52da8a_0000.nii.gz",
+            "label": "./labelsTr/163f52da8a_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2731fb1683_0000.nii.gz",
+            "label": "./labelsTr/2731fb1683_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/f1994421cc_0000.nii.gz",
+            "label": "./labelsTr/f1994421cc_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/10d45dd698_0000.nii.gz",
+            "label": "./labelsTr/10d45dd698_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4fcd4b7e40_0000.nii.gz",
+            "label": "./labelsTr/4fcd4b7e40_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/bd51c3ba34_0000.nii.gz",
+            "label": "./labelsTr/bd51c3ba34_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/dfd5e4e007_0000.nii.gz",
+            "label": "./labelsTr/dfd5e4e007_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/74edab4e1b_0000.nii.gz",
+            "label": "./labelsTr/74edab4e1b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/094a0e8f72_0000.nii.gz",
+            "label": "./labelsTr/094a0e8f72_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5603da963d_0000.nii.gz",
+            "label": "./labelsTr/5603da963d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/bc3882c42b_0000.nii.gz",
+            "label": "./labelsTr/bc3882c42b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/e9d4bdd5cb_0000.nii.gz",
+            "label": "./labelsTr/e9d4bdd5cb_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1bac343cea_0000.nii.gz",
+            "label": "./labelsTr/1bac343cea_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/c9279c1877_0000.nii.gz",
+            "label": "./labelsTr/c9279c1877_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/64d597fcd7_0000.nii.gz",
+            "label": "./labelsTr/64d597fcd7_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/64b8ab7375_0000.nii.gz",
+            "label": "./labelsTr/64b8ab7375_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/85356cb39d_0000.nii.gz",
+            "label": "./labelsTr/85356cb39d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2b4cd01cc8_0000.nii.gz",
+            "label": "./labelsTr/2b4cd01cc8_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/02fe96388e_0000.nii.gz",
+            "label": "./labelsTr/02fe96388e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1373e5cb78_0000.nii.gz",
+            "label": "./labelsTr/1373e5cb78_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3665f8b792_0000.nii.gz",
+            "label": "./labelsTr/3665f8b792_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/a1a9b59c1a_0000.nii.gz",
+            "label": "./labelsTr/a1a9b59c1a_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/13ea177db6_0000.nii.gz",
+            "label": "./labelsTr/13ea177db6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/128d656c66_0000.nii.gz",
+            "label": "./labelsTr/128d656c66_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4c3d6fe13b_0000.nii.gz",
+            "label": "./labelsTr/4c3d6fe13b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/cc519e5f25_0000.nii.gz",
+            "label": "./labelsTr/cc519e5f25_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/9a7a61f482_0000.nii.gz",
+            "label": "./labelsTr/9a7a61f482_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/a43d6f7d3b_0000.nii.gz",
+            "label": "./labelsTr/a43d6f7d3b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/c27ad9a4fc_0000.nii.gz",
+            "label": "./labelsTr/c27ad9a4fc_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/208e49a691_0000.nii.gz",
+            "label": "./labelsTr/208e49a691_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/af606c1d17_0000.nii.gz",
+            "label": "./labelsTr/af606c1d17_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5ff362170a_0000.nii.gz",
+            "label": "./labelsTr/5ff362170a_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/de668efc13_0000.nii.gz",
+            "label": "./labelsTr/de668efc13_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/9f006ce4ef_0000.nii.gz",
+            "label": "./labelsTr/9f006ce4ef_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/8750493974_0000.nii.gz",
+            "label": "./labelsTr/8750493974_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ba000cea10_0000.nii.gz",
+            "label": "./labelsTr/ba000cea10_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/a64269c9e4_0000.nii.gz",
+            "label": "./labelsTr/a64269c9e4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/86a381cb96_0000.nii.gz",
+            "label": "./labelsTr/86a381cb96_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/31870f004b_0000.nii.gz",
+            "label": "./labelsTr/31870f004b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4666f33855_0000.nii.gz",
+            "label": "./labelsTr/4666f33855_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/cbbc4b6f11_0000.nii.gz",
+            "label": "./labelsTr/cbbc4b6f11_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/a4614a9f72_0000.nii.gz",
+            "label": "./labelsTr/a4614a9f72_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/93e5988f16_0000.nii.gz",
+            "label": "./labelsTr/93e5988f16_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/a080e2ec9b_0000.nii.gz",
+            "label": "./labelsTr/a080e2ec9b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/475f68c384_0000.nii.gz",
+            "label": "./labelsTr/475f68c384_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/b44f67f843_0000.nii.gz",
+            "label": "./labelsTr/b44f67f843_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/157c823b27_0000.nii.gz",
+            "label": "./labelsTr/157c823b27_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/a43ad2b9ac_0000.nii.gz",
+            "label": "./labelsTr/a43ad2b9ac_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/fba0776067_0000.nii.gz",
+            "label": "./labelsTr/fba0776067_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/f3366c7295_0000.nii.gz",
+            "label": "./labelsTr/f3366c7295_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/e4e0813183_0000.nii.gz",
+            "label": "./labelsTr/e4e0813183_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/77951bf4b3_0000.nii.gz",
+            "label": "./labelsTr/77951bf4b3_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/9ed6724906_0000.nii.gz",
+            "label": "./labelsTr/9ed6724906_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/fe7dab2602_0000.nii.gz",
+            "label": "./labelsTr/fe7dab2602_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1e3eda186e_0000.nii.gz",
+            "label": "./labelsTr/1e3eda186e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/991c958d94_0000.nii.gz",
+            "label": "./labelsTr/991c958d94_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/58afb7977e_0000.nii.gz",
+            "label": "./labelsTr/58afb7977e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2c32f857f3_0000.nii.gz",
+            "label": "./labelsTr/2c32f857f3_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/270d688ecb_0000.nii.gz",
+            "label": "./labelsTr/270d688ecb_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ed1628c2a5_0000.nii.gz",
+            "label": "./labelsTr/ed1628c2a5_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/dfa992b2c9_0000.nii.gz",
+            "label": "./labelsTr/dfa992b2c9_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/16ea2bcef7_0000.nii.gz",
+            "label": "./labelsTr/16ea2bcef7_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/10be14d6e3_0000.nii.gz",
+            "label": "./labelsTr/10be14d6e3_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/08154d6b7b_0000.nii.gz",
+            "label": "./labelsTr/08154d6b7b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1b6fd8d255_0000.nii.gz",
+            "label": "./labelsTr/1b6fd8d255_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3785175b35_0000.nii.gz",
+            "label": "./labelsTr/3785175b35_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/bf7891541c_0000.nii.gz",
+            "label": "./labelsTr/bf7891541c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/72b5b93699_0000.nii.gz",
+            "label": "./labelsTr/72b5b93699_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7ab8e358b2_0000.nii.gz",
+            "label": "./labelsTr/7ab8e358b2_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/d0ff1d6ce6_0000.nii.gz",
+            "label": "./labelsTr/d0ff1d6ce6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/dc61341c3c_0000.nii.gz",
+            "label": "./labelsTr/dc61341c3c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3da7967508_0000.nii.gz",
+            "label": "./labelsTr/3da7967508_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/9ec43e65d5_0000.nii.gz",
+            "label": "./labelsTr/9ec43e65d5_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/af5b751187_0000.nii.gz",
+            "label": "./labelsTr/af5b751187_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3bf1d20dba_0000.nii.gz",
+            "label": "./labelsTr/3bf1d20dba_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/d47b77d7ab_0000.nii.gz",
+            "label": "./labelsTr/d47b77d7ab_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/f392baaac2_0000.nii.gz",
+            "label": "./labelsTr/f392baaac2_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1661503f74_0000.nii.gz",
+            "label": "./labelsTr/1661503f74_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/949af16ff6_0000.nii.gz",
+            "label": "./labelsTr/949af16ff6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/cf84ffc14f_0000.nii.gz",
+            "label": "./labelsTr/cf84ffc14f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/64e8ca0181_0000.nii.gz",
+            "label": "./labelsTr/64e8ca0181_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/351d3255b5_0000.nii.gz",
+            "label": "./labelsTr/351d3255b5_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/a090a3a9e6_0000.nii.gz",
+            "label": "./labelsTr/a090a3a9e6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/e62ef56058_0000.nii.gz",
+            "label": "./labelsTr/e62ef56058_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/718c0188ef_0000.nii.gz",
+            "label": "./labelsTr/718c0188ef_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/701ca888c7_0000.nii.gz",
+            "label": "./labelsTr/701ca888c7_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/9493adda69_0000.nii.gz",
+            "label": "./labelsTr/9493adda69_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/409bf9d436_0000.nii.gz",
+            "label": "./labelsTr/409bf9d436_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7f78a55e0f_0000.nii.gz",
+            "label": "./labelsTr/7f78a55e0f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4e6812b21a_0000.nii.gz",
+            "label": "./labelsTr/4e6812b21a_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/081c820129_0000.nii.gz",
+            "label": "./labelsTr/081c820129_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/add7598f08_0000.nii.gz",
+            "label": "./labelsTr/add7598f08_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1010f40806_0000.nii.gz",
+            "label": "./labelsTr/1010f40806_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6ef07e1c45_0000.nii.gz",
+            "label": "./labelsTr/6ef07e1c45_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6a58f3ceb4_0000.nii.gz",
+            "label": "./labelsTr/6a58f3ceb4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/be95ae6c0b_0000.nii.gz",
+            "label": "./labelsTr/be95ae6c0b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/9571b76737_0000.nii.gz",
+            "label": "./labelsTr/9571b76737_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5d4eb347dc_0000.nii.gz",
+            "label": "./labelsTr/5d4eb347dc_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/157f6cb4db_0000.nii.gz",
+            "label": "./labelsTr/157f6cb4db_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4c90adc3e9_0000.nii.gz",
+            "label": "./labelsTr/4c90adc3e9_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2ad62faab5_0000.nii.gz",
+            "label": "./labelsTr/2ad62faab5_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2c09d16ea1_0000.nii.gz",
+            "label": "./labelsTr/2c09d16ea1_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/96606492b5_0000.nii.gz",
+            "label": "./labelsTr/96606492b5_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4df1977f27_0000.nii.gz",
+            "label": "./labelsTr/4df1977f27_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/938c4efd14_0000.nii.gz",
+            "label": "./labelsTr/938c4efd14_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/121eb4361c_0000.nii.gz",
+            "label": "./labelsTr/121eb4361c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/0580e47573_0000.nii.gz",
+            "label": "./labelsTr/0580e47573_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7ab10e3226_0000.nii.gz",
+            "label": "./labelsTr/7ab10e3226_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/f2a6636a59_0000.nii.gz",
+            "label": "./labelsTr/f2a6636a59_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/c87573d9ae_0000.nii.gz",
+            "label": "./labelsTr/c87573d9ae_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2e55f16a22_0000.nii.gz",
+            "label": "./labelsTr/2e55f16a22_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/526cf8989b_0000.nii.gz",
+            "label": "./labelsTr/526cf8989b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/cf93952124_0000.nii.gz",
+            "label": "./labelsTr/cf93952124_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/693af4df4c_0000.nii.gz",
+            "label": "./labelsTr/693af4df4c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/030a18397b_0000.nii.gz",
+            "label": "./labelsTr/030a18397b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2e30de0781_0000.nii.gz",
+            "label": "./labelsTr/2e30de0781_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5ec8b6b768_0000.nii.gz",
+            "label": "./labelsTr/5ec8b6b768_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3b1dad372e_0000.nii.gz",
+            "label": "./labelsTr/3b1dad372e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2d71376abc_0000.nii.gz",
+            "label": "./labelsTr/2d71376abc_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/93f3df8132_0000.nii.gz",
+            "label": "./labelsTr/93f3df8132_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5741ecabf4_0000.nii.gz",
+            "label": "./labelsTr/5741ecabf4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3a507b8205_0000.nii.gz",
+            "label": "./labelsTr/3a507b8205_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/90c717065e_0000.nii.gz",
+            "label": "./labelsTr/90c717065e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1e79e4e1bd_0000.nii.gz",
+            "label": "./labelsTr/1e79e4e1bd_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1695d14ef3_0000.nii.gz",
+            "label": "./labelsTr/1695d14ef3_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4e18905e99_0000.nii.gz",
+            "label": "./labelsTr/4e18905e99_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/e78689a0f3_0000.nii.gz",
+            "label": "./labelsTr/e78689a0f3_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4966ded157_0000.nii.gz",
+            "label": "./labelsTr/4966ded157_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2378b9f08d_0000.nii.gz",
+            "label": "./labelsTr/2378b9f08d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2c4323272b_0000.nii.gz",
+            "label": "./labelsTr/2c4323272b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7904f7b2a0_0000.nii.gz",
+            "label": "./labelsTr/7904f7b2a0_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/e305315785_0000.nii.gz",
+            "label": "./labelsTr/e305315785_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/804f11162c_0000.nii.gz",
+            "label": "./labelsTr/804f11162c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/95ebc0d763_0000.nii.gz",
+            "label": "./labelsTr/95ebc0d763_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6c984ee7f6_0000.nii.gz",
+            "label": "./labelsTr/6c984ee7f6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4b55a3c6c3_0000.nii.gz",
+            "label": "./labelsTr/4b55a3c6c3_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/19301f3a01_0000.nii.gz",
+            "label": "./labelsTr/19301f3a01_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/96d2be3adb_0000.nii.gz",
+            "label": "./labelsTr/96d2be3adb_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7502a8b56b_0000.nii.gz",
+            "label": "./labelsTr/7502a8b56b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3cac9bbe90_0000.nii.gz",
+            "label": "./labelsTr/3cac9bbe90_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3a91117e41_0000.nii.gz",
+            "label": "./labelsTr/3a91117e41_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/477f2cfe52_0000.nii.gz",
+            "label": "./labelsTr/477f2cfe52_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6909e9ec97_0000.nii.gz",
+            "label": "./labelsTr/6909e9ec97_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/c5bb5713ee_0000.nii.gz",
+            "label": "./labelsTr/c5bb5713ee_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3f75abb273_0000.nii.gz",
+            "label": "./labelsTr/3f75abb273_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2b505c738b_0000.nii.gz",
+            "label": "./labelsTr/2b505c738b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3e963a8b86_0000.nii.gz",
+            "label": "./labelsTr/3e963a8b86_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/06df3a7578_0000.nii.gz",
+            "label": "./labelsTr/06df3a7578_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4a211edb64_0000.nii.gz",
+            "label": "./labelsTr/4a211edb64_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/a11b8324fa_0000.nii.gz",
+            "label": "./labelsTr/a11b8324fa_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/0386e10db3_0000.nii.gz",
+            "label": "./labelsTr/0386e10db3_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/01c1a0169f_0000.nii.gz",
+            "label": "./labelsTr/01c1a0169f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6e81cb0f88_0000.nii.gz",
+            "label": "./labelsTr/6e81cb0f88_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/79ac9ae34d_0000.nii.gz",
+            "label": "./labelsTr/79ac9ae34d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5a6945c8f0_0000.nii.gz",
+            "label": "./labelsTr/5a6945c8f0_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2568f5cf57_0000.nii.gz",
+            "label": "./labelsTr/2568f5cf57_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/e8fe9ef6f2_0000.nii.gz",
+            "label": "./labelsTr/e8fe9ef6f2_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/622a3616ee_0000.nii.gz",
+            "label": "./labelsTr/622a3616ee_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/92b7e2c6f7_0000.nii.gz",
+            "label": "./labelsTr/92b7e2c6f7_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/493bf9cd78_0000.nii.gz",
+            "label": "./labelsTr/493bf9cd78_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/067b82e422_0000.nii.gz",
+            "label": "./labelsTr/067b82e422_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/8126dd995b_0000.nii.gz",
+            "label": "./labelsTr/8126dd995b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5b4b26aabb_0000.nii.gz",
+            "label": "./labelsTr/5b4b26aabb_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1252c234c1_0000.nii.gz",
+            "label": "./labelsTr/1252c234c1_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/50b89b4e3c_0000.nii.gz",
+            "label": "./labelsTr/50b89b4e3c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/eeac1dfa77_0000.nii.gz",
+            "label": "./labelsTr/eeac1dfa77_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/c98bb600aa_0000.nii.gz",
+            "label": "./labelsTr/c98bb600aa_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/844f1fcfbc_0000.nii.gz",
+            "label": "./labelsTr/844f1fcfbc_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5b99561d7a_0000.nii.gz",
+            "label": "./labelsTr/5b99561d7a_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6f73b3e2f6_0000.nii.gz",
+            "label": "./labelsTr/6f73b3e2f6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/404edff115_0000.nii.gz",
+            "label": "./labelsTr/404edff115_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/378fc13e4e_0000.nii.gz",
+            "label": "./labelsTr/378fc13e4e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/8933f992ef_0000.nii.gz",
+            "label": "./labelsTr/8933f992ef_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7b78d08992_0000.nii.gz",
+            "label": "./labelsTr/7b78d08992_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/08583accc5_0000.nii.gz",
+            "label": "./labelsTr/08583accc5_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/aa190d2465_0000.nii.gz",
+            "label": "./labelsTr/aa190d2465_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7c004290c4_0000.nii.gz",
+            "label": "./labelsTr/7c004290c4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/859d2ced68_0000.nii.gz",
+            "label": "./labelsTr/859d2ced68_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2ebeb18920_0000.nii.gz",
+            "label": "./labelsTr/2ebeb18920_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/f3fb7e5b57_0000.nii.gz",
+            "label": "./labelsTr/f3fb7e5b57_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/93da09b78f_0000.nii.gz",
+            "label": "./labelsTr/93da09b78f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6b4a46f457_0000.nii.gz",
+            "label": "./labelsTr/6b4a46f457_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3e3634f8cf_0000.nii.gz",
+            "label": "./labelsTr/3e3634f8cf_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5e4548010c_0000.nii.gz",
+            "label": "./labelsTr/5e4548010c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/324c55d571_0000.nii.gz",
+            "label": "./labelsTr/324c55d571_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/977d91b4bb_0000.nii.gz",
+            "label": "./labelsTr/977d91b4bb_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/88df178cf7_0000.nii.gz",
+            "label": "./labelsTr/88df178cf7_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/448efe87af_0000.nii.gz",
+            "label": "./labelsTr/448efe87af_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2a4138278f_0000.nii.gz",
+            "label": "./labelsTr/2a4138278f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2eb2db764c_0000.nii.gz",
+            "label": "./labelsTr/2eb2db764c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/70d0e33a2d_0000.nii.gz",
+            "label": "./labelsTr/70d0e33a2d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/137a44b6c4_0000.nii.gz",
+            "label": "./labelsTr/137a44b6c4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1dfb0e8b50_0000.nii.gz",
+            "label": "./labelsTr/1dfb0e8b50_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/569f278151_0000.nii.gz",
+            "label": "./labelsTr/569f278151_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/842f2b08a0_0000.nii.gz",
+            "label": "./labelsTr/842f2b08a0_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2b74726e27_0000.nii.gz",
+            "label": "./labelsTr/2b74726e27_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7e7bc358af_0000.nii.gz",
+            "label": "./labelsTr/7e7bc358af_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/89fc855c8e_0000.nii.gz",
+            "label": "./labelsTr/89fc855c8e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/786ae6a1b4_0000.nii.gz",
+            "label": "./labelsTr/786ae6a1b4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6423ea8c07_0000.nii.gz",
+            "label": "./labelsTr/6423ea8c07_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6a96491280_0000.nii.gz",
+            "label": "./labelsTr/6a96491280_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/406c9ec054_0000.nii.gz",
+            "label": "./labelsTr/406c9ec054_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/99d14515e4_0000.nii.gz",
+            "label": "./labelsTr/99d14515e4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/02bb3e7d9d_0000.nii.gz",
+            "label": "./labelsTr/02bb3e7d9d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/97fd171c61_0000.nii.gz",
+            "label": "./labelsTr/97fd171c61_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/aee6477d69_0000.nii.gz",
+            "label": "./labelsTr/aee6477d69_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ae9c939e29_0000.nii.gz",
+            "label": "./labelsTr/ae9c939e29_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/696e62e32d_0000.nii.gz",
+            "label": "./labelsTr/696e62e32d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/0c62321b92_0000.nii.gz",
+            "label": "./labelsTr/0c62321b92_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1368fe2097_0000.nii.gz",
+            "label": "./labelsTr/1368fe2097_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2166ee32e6_0000.nii.gz",
+            "label": "./labelsTr/2166ee32e6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1261b67249_0000.nii.gz",
+            "label": "./labelsTr/1261b67249_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6b37836125_0000.nii.gz",
+            "label": "./labelsTr/6b37836125_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/910a4dd4d6_0000.nii.gz",
+            "label": "./labelsTr/910a4dd4d6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/74bdb58dbf_0000.nii.gz",
+            "label": "./labelsTr/74bdb58dbf_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4a1316c032_0000.nii.gz",
+            "label": "./labelsTr/4a1316c032_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/71a2992a40_0000.nii.gz",
+            "label": "./labelsTr/71a2992a40_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/382ed11a01_0000.nii.gz",
+            "label": "./labelsTr/382ed11a01_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2060eea0bd_0000.nii.gz",
+            "label": "./labelsTr/2060eea0bd_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/415abb8c54_0000.nii.gz",
+            "label": "./labelsTr/415abb8c54_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5e5a10764a_0000.nii.gz",
+            "label": "./labelsTr/5e5a10764a_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1908f0cd50_0000.nii.gz",
+            "label": "./labelsTr/1908f0cd50_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/695fb1509f_0000.nii.gz",
+            "label": "./labelsTr/695fb1509f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3a9dd7626b_0000.nii.gz",
+            "label": "./labelsTr/3a9dd7626b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4ddcee54ae_0000.nii.gz",
+            "label": "./labelsTr/4ddcee54ae_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5632c1f884_0000.nii.gz",
+            "label": "./labelsTr/5632c1f884_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/8958cc0bc6_0000.nii.gz",
+            "label": "./labelsTr/8958cc0bc6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1139dc270b_0000.nii.gz",
+            "label": "./labelsTr/1139dc270b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/03899fa456_0000.nii.gz",
+            "label": "./labelsTr/03899fa456_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/769d84c295_0000.nii.gz",
+            "label": "./labelsTr/769d84c295_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5c0b53354e_0000.nii.gz",
+            "label": "./labelsTr/5c0b53354e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3ba19b0b0f_0000.nii.gz",
+            "label": "./labelsTr/3ba19b0b0f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/857ec1f14c_0000.nii.gz",
+            "label": "./labelsTr/857ec1f14c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/703db4278a_0000.nii.gz",
+            "label": "./labelsTr/703db4278a_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4fe213a60e_0000.nii.gz",
+            "label": "./labelsTr/4fe213a60e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/eeddc20f03_0000.nii.gz",
+            "label": "./labelsTr/eeddc20f03_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4492c72a6e_0000.nii.gz",
+            "label": "./labelsTr/4492c72a6e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/16c163fa19_0000.nii.gz",
+            "label": "./labelsTr/16c163fa19_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1d4b740107_0000.nii.gz",
+            "label": "./labelsTr/1d4b740107_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1cac8dba16_0000.nii.gz",
+            "label": "./labelsTr/1cac8dba16_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/9789ae9923_0000.nii.gz",
+            "label": "./labelsTr/9789ae9923_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/881ac1f87c_0000.nii.gz",
+            "label": "./labelsTr/881ac1f87c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ddfae03f30_0000.nii.gz",
+            "label": "./labelsTr/ddfae03f30_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7a834b9d14_0000.nii.gz",
+            "label": "./labelsTr/7a834b9d14_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/df4e4ae0e6_0000.nii.gz",
+            "label": "./labelsTr/df4e4ae0e6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/722d973691_0000.nii.gz",
+            "label": "./labelsTr/722d973691_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/9108fc72be_0000.nii.gz",
+            "label": "./labelsTr/9108fc72be_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1cd202a3cc_0000.nii.gz",
+            "label": "./labelsTr/1cd202a3cc_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/e957da868d_0000.nii.gz",
+            "label": "./labelsTr/e957da868d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1cb11e92e9_0000.nii.gz",
+            "label": "./labelsTr/1cb11e92e9_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2de2cbb63a_0000.nii.gz",
+            "label": "./labelsTr/2de2cbb63a_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7782701dad_0000.nii.gz",
+            "label": "./labelsTr/7782701dad_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/75377f04e6_0000.nii.gz",
+            "label": "./labelsTr/75377f04e6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4edbc1d835_0000.nii.gz",
+            "label": "./labelsTr/4edbc1d835_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4f315ba876_0000.nii.gz",
+            "label": "./labelsTr/4f315ba876_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/605ddd497c_0000.nii.gz",
+            "label": "./labelsTr/605ddd497c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/e634283451_0000.nii.gz",
+            "label": "./labelsTr/e634283451_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7a569b3064_0000.nii.gz",
+            "label": "./labelsTr/7a569b3064_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4f793f3cb4_0000.nii.gz",
+            "label": "./labelsTr/4f793f3cb4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4eccdbbe89_0000.nii.gz",
+            "label": "./labelsTr/4eccdbbe89_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5f0b735837_0000.nii.gz",
+            "label": "./labelsTr/5f0b735837_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/9306e6458e_0000.nii.gz",
+            "label": "./labelsTr/9306e6458e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2c7c6863ed_0000.nii.gz",
+            "label": "./labelsTr/2c7c6863ed_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/721d2d7bbc_0000.nii.gz",
+            "label": "./labelsTr/721d2d7bbc_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7cf787efcc_0000.nii.gz",
+            "label": "./labelsTr/7cf787efcc_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/02d57cd50b_0000.nii.gz",
+            "label": "./labelsTr/02d57cd50b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5d223b0177_0000.nii.gz",
+            "label": "./labelsTr/5d223b0177_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/777e005cbf_0000.nii.gz",
+            "label": "./labelsTr/777e005cbf_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/a06d518d21_0000.nii.gz",
+            "label": "./labelsTr/a06d518d21_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/085ade34b2_0000.nii.gz",
+            "label": "./labelsTr/085ade34b2_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/81e82c4785_0000.nii.gz",
+            "label": "./labelsTr/81e82c4785_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/878faba4bd_0000.nii.gz",
+            "label": "./labelsTr/878faba4bd_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2f49f85045_0000.nii.gz",
+            "label": "./labelsTr/2f49f85045_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ae6284de1b_0000.nii.gz",
+            "label": "./labelsTr/ae6284de1b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/aa86bb6386_0000.nii.gz",
+            "label": "./labelsTr/aa86bb6386_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/808b168b62_0000.nii.gz",
+            "label": "./labelsTr/808b168b62_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/c6e90ae154_0000.nii.gz",
+            "label": "./labelsTr/c6e90ae154_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6fdcebadec_0000.nii.gz",
+            "label": "./labelsTr/6fdcebadec_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4aa7047f17_0000.nii.gz",
+            "label": "./labelsTr/4aa7047f17_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/373b8696ec_0000.nii.gz",
+            "label": "./labelsTr/373b8696ec_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/93dde5f0a1_0000.nii.gz",
+            "label": "./labelsTr/93dde5f0a1_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/461c745f99_0000.nii.gz",
+            "label": "./labelsTr/461c745f99_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1cea750ed3_0000.nii.gz",
+            "label": "./labelsTr/1cea750ed3_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6760aa4363_0000.nii.gz",
+            "label": "./labelsTr/6760aa4363_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5f8ba20a67_0000.nii.gz",
+            "label": "./labelsTr/5f8ba20a67_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6ae111f642_0000.nii.gz",
+            "label": "./labelsTr/6ae111f642_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3b96b4d8b6_0000.nii.gz",
+            "label": "./labelsTr/3b96b4d8b6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/71bd285406_0000.nii.gz",
+            "label": "./labelsTr/71bd285406_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/02cf5aa3f6_0000.nii.gz",
+            "label": "./labelsTr/02cf5aa3f6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2c3307a4db_0000.nii.gz",
+            "label": "./labelsTr/2c3307a4db_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/190e9d8e3c_0000.nii.gz",
+            "label": "./labelsTr/190e9d8e3c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5564c68d8a_0000.nii.gz",
+            "label": "./labelsTr/5564c68d8a_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/694bae6137_0000.nii.gz",
+            "label": "./labelsTr/694bae6137_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/84bc22d85c_0000.nii.gz",
+            "label": "./labelsTr/84bc22d85c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2525fd4a70_0000.nii.gz",
+            "label": "./labelsTr/2525fd4a70_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/02a2bd8cc2_0000.nii.gz",
+            "label": "./labelsTr/02a2bd8cc2_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2df25759ed_0000.nii.gz",
+            "label": "./labelsTr/2df25759ed_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/265f9111c0_0000.nii.gz",
+            "label": "./labelsTr/265f9111c0_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/947a0cb55a_0000.nii.gz",
+            "label": "./labelsTr/947a0cb55a_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5f8255bf40_0000.nii.gz",
+            "label": "./labelsTr/5f8255bf40_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3b482a7d32_0000.nii.gz",
+            "label": "./labelsTr/3b482a7d32_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/453a423d8d_0000.nii.gz",
+            "label": "./labelsTr/453a423d8d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5f27f10f88_0000.nii.gz",
+            "label": "./labelsTr/5f27f10f88_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7abcea12af_0000.nii.gz",
+            "label": "./labelsTr/7abcea12af_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/121f7ca3da_0000.nii.gz",
+            "label": "./labelsTr/121f7ca3da_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/635cd02e2e_0000.nii.gz",
+            "label": "./labelsTr/635cd02e2e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2776c10cf0_0000.nii.gz",
+            "label": "./labelsTr/2776c10cf0_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2d49a3e4a3_0000.nii.gz",
+            "label": "./labelsTr/2d49a3e4a3_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/172ae18e3e_0000.nii.gz",
+            "label": "./labelsTr/172ae18e3e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/204c5fedba_0000.nii.gz",
+            "label": "./labelsTr/204c5fedba_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/87c6213da6_0000.nii.gz",
+            "label": "./labelsTr/87c6213da6_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4f4dbe5ee2_0000.nii.gz",
+            "label": "./labelsTr/4f4dbe5ee2_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4561f983be_0000.nii.gz",
+            "label": "./labelsTr/4561f983be_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/0e01b85a24_0000.nii.gz",
+            "label": "./labelsTr/0e01b85a24_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/d42e1c78a1_0000.nii.gz",
+            "label": "./labelsTr/d42e1c78a1_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/05acf5343f_0000.nii.gz",
+            "label": "./labelsTr/05acf5343f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2af7819958_0000.nii.gz",
+            "label": "./labelsTr/2af7819958_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/846d72ffbe_0000.nii.gz",
+            "label": "./labelsTr/846d72ffbe_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/2e3485e6c5_0000.nii.gz",
+            "label": "./labelsTr/2e3485e6c5_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/62ce0d8d25_0000.nii.gz",
+            "label": "./labelsTr/62ce0d8d25_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/789e986b18_0000.nii.gz",
+            "label": "./labelsTr/789e986b18_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3b6bd0b0d1_0000.nii.gz",
+            "label": "./labelsTr/3b6bd0b0d1_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6e15775d80_0000.nii.gz",
+            "label": "./labelsTr/6e15775d80_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ee4d47bbbd_0000.nii.gz",
+            "label": "./labelsTr/ee4d47bbbd_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1daf0af29d_0000.nii.gz",
+            "label": "./labelsTr/1daf0af29d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/17014b11f1_0000.nii.gz",
+            "label": "./labelsTr/17014b11f1_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1cd4dc2348_0000.nii.gz",
+            "label": "./labelsTr/1cd4dc2348_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6ff047baa3_0000.nii.gz",
+            "label": "./labelsTr/6ff047baa3_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/517f0ae994_0000.nii.gz",
+            "label": "./labelsTr/517f0ae994_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4b64bab99b_0000.nii.gz",
+            "label": "./labelsTr/4b64bab99b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5cec025855_0000.nii.gz",
+            "label": "./labelsTr/5cec025855_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/96e7757122_0000.nii.gz",
+            "label": "./labelsTr/96e7757122_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/63ec515b85_0000.nii.gz",
+            "label": "./labelsTr/63ec515b85_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/9933598d50_0000.nii.gz",
+            "label": "./labelsTr/9933598d50_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7d6a269547_0000.nii.gz",
+            "label": "./labelsTr/7d6a269547_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3352a0291d_0000.nii.gz",
+            "label": "./labelsTr/3352a0291d_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3a40efce5c_0000.nii.gz",
+            "label": "./labelsTr/3a40efce5c_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/34f65ea2e1_0000.nii.gz",
+            "label": "./labelsTr/34f65ea2e1_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/02cd74218f_0000.nii.gz",
+            "label": "./labelsTr/02cd74218f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/8045cc444b_0000.nii.gz",
+            "label": "./labelsTr/8045cc444b_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5d390ce428_0000.nii.gz",
+            "label": "./labelsTr/5d390ce428_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/4ce3b6957a_0000.nii.gz",
+            "label": "./labelsTr/4ce3b6957a_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/fd355e15fb_0000.nii.gz",
+            "label": "./labelsTr/fd355e15fb_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/938c3de17e_0000.nii.gz",
+            "label": "./labelsTr/938c3de17e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6ebd8ec2a9_0000.nii.gz",
+            "label": "./labelsTr/6ebd8ec2a9_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/348b4017ba_0000.nii.gz",
+            "label": "./labelsTr/348b4017ba_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3ac8ee46b7_0000.nii.gz",
+            "label": "./labelsTr/3ac8ee46b7_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/1d0d7ed17e_0000.nii.gz",
+            "label": "./labelsTr/1d0d7ed17e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/5a30200a69_0000.nii.gz",
+            "label": "./labelsTr/5a30200a69_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/7627acfc70_0000.nii.gz",
+            "label": "./labelsTr/7627acfc70_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6b604a8156_0000.nii.gz",
+            "label": "./labelsTr/6b604a8156_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/854f0e9038_0000.nii.gz",
+            "label": "./labelsTr/854f0e9038_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/d93a29f33e_0000.nii.gz",
+            "label": "./labelsTr/d93a29f33e_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3e60c7a852_0000.nii.gz",
+            "label": "./labelsTr/3e60c7a852_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/fcb4495bb5_0000.nii.gz",
+            "label": "./labelsTr/fcb4495bb5_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/9527d43102_0000.nii.gz",
+            "label": "./labelsTr/9527d43102_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/81d0455f5f_0000.nii.gz",
+            "label": "./labelsTr/81d0455f5f_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/c9f572b2ba_0000.nii.gz",
+            "label": "./labelsTr/c9f572b2ba_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/05adc8cbd1_0000.nii.gz",
+            "label": "./labelsTr/05adc8cbd1_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/dcbd3197b4_0000.nii.gz",
+            "label": "./labelsTr/dcbd3197b4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/3f6fc29caa_0000.nii.gz",
+            "label": "./labelsTr/3f6fc29caa_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/286f17f9e7_0000.nii.gz",
+            "label": "./labelsTr/286f17f9e7_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/302ca5af07_0000.nii.gz",
+            "label": "./labelsTr/302ca5af07_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/232aef8750_0000.nii.gz",
+            "label": "./labelsTr/232aef8750_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/6a00e5f4b4_0000.nii.gz",
+            "label": "./labelsTr/6a00e5f4b4_0000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/07223e2a2d_0000.nii.gz",
+            "label": "./labelsTr/07223e2a2d_0000.nii.gz"
+        }
+    ],
+    "test": [
+        "./imagesTs/54a97c0465_0000.nii.gz",
+        "./imagesTs/609847bfe2_0000.nii.gz",
+        "./imagesTs/6b2b4fdea6_0000.nii.gz",
+        "./imagesTs/a206deadb3_0000.nii.gz",
+        "./imagesTs/d5a08cdc39_0000.nii.gz",
+        "./imagesTs/0354dc2907_0000.nii.gz",
+        "./imagesTs/720bf63ce3_0000.nii.gz",
+        "./imagesTs/102415070c_0000.nii.gz",
+        "./imagesTs/33e67cd34d_0000.nii.gz",
+        "./imagesTs/d5255356a3_0000.nii.gz",
+        "./imagesTs/901fa2058a_0000.nii.gz",
+        "./imagesTs/64ac3d1226_0000.nii.gz",
+        "./imagesTs/7c1bec680d_0000.nii.gz",
+        "./imagesTs/58410d845e_0000.nii.gz",
+        "./imagesTs/759546fe89_0000.nii.gz",
+        "./imagesTs/cba7d5966e_0000.nii.gz",
+        "./imagesTs/07299832a8_0000.nii.gz",
+        "./imagesTs/ceed1296c1_0000.nii.gz",
+        "./imagesTs/50803716a6_0000.nii.gz",
+        "./imagesTs/745845dce0_0000.nii.gz",
+        "./imagesTs/2a9c137f95_0000.nii.gz",
+        "./imagesTs/c1a8e5eafe_0000.nii.gz",
+        "./imagesTs/33af64b49a_0000.nii.gz",
+        "./imagesTs/bfdb6396fd_0000.nii.gz",
+        "./imagesTs/11930cf46b_0000.nii.gz",
+        "./imagesTs/dd5044a8ac_0000.nii.gz",
+        "./imagesTs/20d7d12b21_0000.nii.gz",
+        "./imagesTs/210791b6f9_0000.nii.gz",
+        "./imagesTs/85765d3ca1_0000.nii.gz",
+        "./imagesTs/96dcf0473c_0000.nii.gz",
+        "./imagesTs/4cb87a60ea_0000.nii.gz",
+        "./imagesTs/122d538829_0000.nii.gz",
+        "./imagesTs/6270e85cb5_0000.nii.gz",
+        "./imagesTs/973749b7ce_0000.nii.gz",
+        "./imagesTs/eb6ac657a6_0000.nii.gz",
+        "./imagesTs/5e22936183_0000.nii.gz",
+        "./imagesTs/72cf698d39_0000.nii.gz",
+        "./imagesTs/411bf01754_0000.nii.gz",
+        "./imagesTs/4fd22056b3_0000.nii.gz",
+        "./imagesTs/78cceffcf1_0000.nii.gz",
+        "./imagesTs/689169f970_0000.nii.gz",
+        "./imagesTs/081931f2ec_0000.nii.gz",
+        "./imagesTs/bd509716e1_0000.nii.gz",
+        "./imagesTs/ff81fa79d6_0000.nii.gz",
+        "./imagesTs/e0f7f0d989_0000.nii.gz",
+        "./imagesTs/7ab7d0a16f_0000.nii.gz",
+        "./imagesTs/47d82b035b_0000.nii.gz",
+        "./imagesTs/7ace18a43b_0000.nii.gz",
+        "./imagesTs/470d4cc4ee_0000.nii.gz",
+        "./imagesTs/2d118f0f64_0000.nii.gz",
+        "./imagesTs/89c0c3b109_0000.nii.gz",
+        "./imagesTs/5a72f9e6c7_0000.nii.gz",
+        "./imagesTs/6440c0e9a0_0000.nii.gz",
+        "./imagesTs/3037de42a9_0000.nii.gz",
+        "./imagesTs/23453d16c8_0000.nii.gz",
+        "./imagesTs/21fc1099a6_0000.nii.gz",
+        "./imagesTs/8674e49234_0000.nii.gz",
+        "./imagesTs/244ccb9843_0000.nii.gz",
+        "./imagesTs/46e7e1a319_0000.nii.gz",
+        "./imagesTs/909cf011fc_0000.nii.gz",
+        "./imagesTs/28631c1846_0000.nii.gz",
+        "./imagesTs/64f77012ac_0000.nii.gz",
+        "./imagesTs/416d908876_0000.nii.gz",
+        "./imagesTs/8cdbd94386_0000.nii.gz",
+        "./imagesTs/460d720b3f_0000.nii.gz",
+        "./imagesTs/2e512523da_0000.nii.gz",
+        "./imagesTs/cc923a7acd_0000.nii.gz",
+        "./imagesTs/551cb206ce_0000.nii.gz",
+        "./imagesTs/91f2c70bd1_0000.nii.gz",
+        "./imagesTs/54fc9b19b5_0000.nii.gz",
+        "./imagesTs/4cf29e72b1_0000.nii.gz",
+        "./imagesTs/78ee1e68e4_0000.nii.gz",
+        "./imagesTs/1f78c58a32_0000.nii.gz",
+        "./imagesTs/a3ea59c62c_0000.nii.gz",
+        "./imagesTs/85eda14d0e_0000.nii.gz",
+        "./imagesTs/39b6792a75_0000.nii.gz",
+        "./imagesTs/f538440e3c_0000.nii.gz",
+        "./imagesTs/4b053d5b1d_0000.nii.gz",
+        "./imagesTs/209e5f2156_0000.nii.gz",
+        "./imagesTs/aca03293ea_0000.nii.gz",
+        "./imagesTs/6056bc7845_0000.nii.gz",
+        "./imagesTs/6cef588dd0_0000.nii.gz",
+        "./imagesTs/6cbe1f0a09_0000.nii.gz",
+        "./imagesTs/7402c2f56c_0000.nii.gz",
+        "./imagesTs/3581c00a8c_0000.nii.gz",
+        "./imagesTs/228a7d42f0_0000.nii.gz",
+        "./imagesTs/7c583850dd_0000.nii.gz",
+        "./imagesTs/2a0b4a4bd8_0000.nii.gz",
+        "./imagesTs/804e20cbf7_0000.nii.gz",
+        "./imagesTs/105ec70b1d_0000.nii.gz",
+        "./imagesTs/8e388643b8_0000.nii.gz",
+        "./imagesTs/76b9e01671_0000.nii.gz",
+        "./imagesTs/774f4a13f1_0000.nii.gz",
+        "./imagesTs/420b958f99_0000.nii.gz",
+        "./imagesTs/75f4a8502b_0000.nii.gz",
+        "./imagesTs/02e8d2742f_0000.nii.gz",
+        "./imagesTs/91cae68878_0000.nii.gz",
+        "./imagesTs/4475b96ccd_0000.nii.gz",
+        "./imagesTs/399c236565_0000.nii.gz",
+        "./imagesTs/1994af6215_0000.nii.gz",
+        "./imagesTs/2082d85c9d_0000.nii.gz",
+        "./imagesTs/621b5be0be_0000.nii.gz",
+        "./imagesTs/2b1841fd46_0000.nii.gz",
+        "./imagesTs/5b40f5fc4c_0000.nii.gz",
+        "./imagesTs/96c6a3b3a8_0000.nii.gz",
+        "./imagesTs/5372ee35f5_0000.nii.gz"
+    ]
+}
