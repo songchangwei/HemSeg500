@@ -4,7 +4,7 @@
 
 It contains:
 
-  - Link to the dataset: [CT images](https://www.kaggle.com/competitions/rsna-intracranial-hemorrhage-detection/data) from RSNA challenge [2] and [label file](https://pan.baidu.com/s/1b_GR3hE1rIr6HHKUAXqftA?pwd=q02q) that we annotated.
+  - Link to the dataset: [CT images](https://www.kaggle.com/competitions/rsna-intracranial-hemorrhage-detection/data) from RSNA challenge [2] and [label file](https://github.com/songchangwei/HemSeg500/blob/main/data/HemSeg-500.zip) that we annotated.
   - The [code](#Data-selection-and-conversion) to select and cover DICOM file to NIFTI file that we annotated.
   - The [code](#Baseline-model-implementations) for the baseline models that we implemented.
 
